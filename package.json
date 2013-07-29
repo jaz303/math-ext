@@ -1,0 +1,17 @@
+{
+  "name": "math-ext",
+  "version": "0.0.1",
+  "description": "simple math functions. clamp, lerp etc",
+  "main": "index.js",
+  "keywords": [
+    "math",
+    "lerp",
+    "clamp"
+  ],
+  "author": "Jason Frame <jason@onehackoranother.com> (jasonframe.co.uk)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jaz303/math-ext.git"
+  }
+}
